@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memory-game-react/static/css/main.51c8afd3.css",
+    "main.js": "/memory-game-react/static/js/main.e5b0a2b0.js",
+    "static/js/453.e413c70c.chunk.js": "/memory-game-react/static/js/453.e413c70c.chunk.js",
+    "static/media/mozg.png": "/memory-game-react/static/media/mozg.7c8dae638602bdc40c42.png",
+    "static/media/ptaszek.png": "/memory-game-react/static/media/ptaszek.6d6c9b75792ae9c0061f.png",
+    "static/media/klocki.png": "/memory-game-react/static/media/klocki.787a3ab2b95adb595411.png",
+    "static/media/ai.png": "/memory-game-react/static/media/ai.7e34eb72a48ef5017506.png",
+    "static/media/cytryna.png": "/memory-game-react/static/media/cytryna.33bc61ceda621ca840bb.png",
+    "static/media/zlotylew.png": "/memory-game-react/static/media/zlotylew.5d94b8f3e618368a24a6.png",
+    "static/media/pilka.png": "/memory-game-react/static/media/pilka.f1350655f449d71d195a.png",
+    "static/media/bomba.png": "/memory-game-react/static/media/bomba.5979531b741f379e23ee.png",
+    "index.html": "/memory-game-react/index.html",
+    "main.51c8afd3.css.map": "/memory-game-react/static/css/main.51c8afd3.css.map",
+    "main.e5b0a2b0.js.map": "/memory-game-react/static/js/main.e5b0a2b0.js.map",
+    "453.e413c70c.chunk.js.map": "/memory-game-react/static/js/453.e413c70c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c8afd3.css",
+    "static/js/main.e5b0a2b0.js"
+  ]
+}
