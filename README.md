@@ -39,7 +39,9 @@ This will start the app in development mode and open it in your default web brow
 ### Built With
 
 - [React.js](https://reactjs.org/) - JavaScript library for building user interfaces
+- [Vite](https://vitejs.dev/) - A fast build tool for modern web projects
+- [Bulma](https://bulma.io/) - A modern CSS framework based on Flexbox
 
 ## Acknowledgments
 
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Vite](https://vite.dev/guide/).
