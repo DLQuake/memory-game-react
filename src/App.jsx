@@ -10,7 +10,7 @@ function App() {
           <p className="title has-text-centered">Memory game</p>
         </div>
       </section>
-      <section className="section">
+      <section className="section notification">
         <div className="container">
           <GameBoard />
         </div>
